@@ -1,0 +1,19 @@
+state = {
+	id = 974
+	name = "STATE_974"
+	manpower = 800000
+	state_category = metropolis
+	local_supplies = 0.000
+	history = {
+		owner = EUR
+		add_core_of = EUR
+		victory_points = { 11531 10 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+		}
+	}
+	provinces = {
+		11531 
+	}
+}

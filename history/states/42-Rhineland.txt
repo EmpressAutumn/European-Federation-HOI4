@@ -1,0 +1,23 @@
+state = {
+	id = 42
+	name = "STATE_42"
+	manpower = 3027739
+	state_category = metropolis
+	resources = {
+		steel = 50
+		aluminium = 14
+	}
+	local_supplies = 0.0
+	history = {
+		owner = EUR
+		add_core_of = EUR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+
+		}
+	}
+	provinces = {
+		563 3423 3558 9575 11547 11560
+	}
+}
