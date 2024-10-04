@@ -2,4 +2,6 @@
  CZE_democratic: "Republic of Czechoslovakia"
  CZE_democratic_DEF: "the Republic of Czechoslovakia"
  AUS_neutrality: "Archduchy of Austria"
- AUS_democratic_DEF: "the Archduchy of Austria"
+ AUS_neutrality_DEF: "the Archduchy of Austria"
+ YUG_neutrality: "Kingdom of Yugoslavia"
+ YUG_neutrality_DEF: "the Kingdom of Yugoslavia"
