@@ -1,16 +1,12 @@
-
-state={
-	id=776
-	name="STATE_776" # Benin/Dahomey
+state = {
+	id = 776
+	name = "STATE_776"
 	manpower = 1351563
-	
 	state_category = pastoral
-	history={
-		owner = D01
-		add_core_of = DAH
-		victory_points = {
-			10919 1
-		}
+	local_supplies = 1.0
+	history = {
+		owner = WAF
+		victory_points = { 10919 1 }
 		buildings = {
 			infrastructure = 2
 			10919 = {
@@ -18,10 +14,7 @@ state={
 			}
 		}
 	}
-
-	provinces={
+	provinces = {
 		10919 12874 12762
 	}
-
-	local_supplies=1.0 
 }

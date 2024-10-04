@@ -1,25 +1,17 @@
-
-state={
-	id=781
-	name="STATE_781" # Niger
+state = {
+	id = 781
+	name = "STATE_781"
 	manpower = 543817
-	
 	state_category = rural
-
-	history={
-		owner = D01
-		add_core_of = NGR
-		victory_points = {
-			2056 1
-		}
+	local_supplies = 1.0
+	history = {
+		owner = WAF
+		victory_points = { 2056 1 }
 		buildings = {
 			infrastructure = 2
 		}
 	}
-
-	provinces={
+	provinces = {
 		1975 2056 12707
 	}
-
-	local_supplies=1.0 
 }
