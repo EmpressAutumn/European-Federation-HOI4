@@ -1,1 +1,5 @@
 EUR = "countries/Europe.txt"
+OMC = "countries/OuterManchu.txt"
+HNK = "countries/HongKong.txt"
+FIC = "countries/Frenchindochina.txt"
+AOS = "countries/American Siberia.txt"
