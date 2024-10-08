@@ -1,4 +1,8 @@
+AOS = "countries/AmericanSiberia.txt"
 EAF = "countries/Equatorial Africa.txt"
 EUR = "countries/Europe.txt"
+FIC = "countries/Frenchindochina.txt"
+HNK = "countries/HongKong.txt"
+OMC = "countries/OuterManchu.txt"
 SPF = "countries/Spanish Africa.txt"
 WAF = "countries/West Africa.txt"

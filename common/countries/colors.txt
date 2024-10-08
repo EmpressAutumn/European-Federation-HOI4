@@ -17,6 +17,10 @@ MOR = {
 	color = rgb { 34 70 142 }
 	color_ui = rgb { 34 70 142 }
 }
+OMC = { 
+	color = rgb { 171 139 50 }
+	color_ui = rgb { 171 139 50 }
+}
 TUN = {
 	color = rgb { 34 70 142 }
 	color_ui = rgb { 34 70 142 }

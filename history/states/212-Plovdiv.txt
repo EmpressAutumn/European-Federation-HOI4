@@ -8,8 +8,9 @@ state = {
 	}
 	local_supplies = 5.0
 	history = {
-		owner = YUG
-		add_core_of = YUG
+		owner = BUL
+		add_core_of = BUL
+		add_claim_by = YUG
 		victory_points = { 6923 10 }
 		victory_points = { 6814 3 }
 		victory_points = { 9862 1 }

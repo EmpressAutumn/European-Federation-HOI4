@@ -21,6 +21,10 @@ set_autonomy = {
 	autonomous_state = autonomy_colony
 }
 set_autonomy = {
+	target = FIC
+	autonomous_state = autonomy_colony
+}
+set_autonomy = {
 	target = MOR
 	autonomous_state = autonomy_dominion
 }
@@ -38,6 +42,7 @@ set_autonomy = {
 }
 create_faction = "Continental Treaty"
 add_to_faction = EAF
+add_to_faction = FIC
 add_to_faction = MOR
 add_to_faction = SPF
 add_to_faction = TUN
