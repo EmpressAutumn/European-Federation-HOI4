@@ -1,27 +1,20 @@
-state={
-	id=699
-	name="STATE_699"
+state = {
+	id = 699
+	name = "STATE_699"
 	manpower = 21056
-	
 	state_category = wasteland
-
-	history={
-		owner = D01
-		add_core_of = WES
+	local_supplies = 0.0
+	history = {
+		owner = SPF
+		victory_points = { 8038 1 }
 		buildings = {
 			infrastructure = 1
 			8038 = {
 				naval_base = 1
 			}
 		}
-		victory_points = {
-			8038 1
-		}
 	}
-	
-	provinces={
+	provinces = {
 		4920 5012 7979 8038 8111 10875
 	}
-
-	local_supplies=0.0 
 }

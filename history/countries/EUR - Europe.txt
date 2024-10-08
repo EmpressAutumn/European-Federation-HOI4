@@ -16,3 +16,29 @@ set_popularities = {
 	communism = 10
 	neutrality = 10
 }
+set_autonomy = {
+	target = EAF
+	autonomous_state = autonomy_colony
+}
+set_autonomy = {
+	target = MOR
+	autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+	target = SPF
+	autonomous_state = autonomy_colony
+}
+set_autonomy = {
+	target = TUN
+	autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+	target = WAF
+	autonomous_state = autonomy_colony
+}
+create_faction = "Continental Treaty"
+add_to_faction = EAF
+add_to_faction = MOR
+add_to_faction = SPF
+add_to_faction = TUN
+add_to_faction = WAF

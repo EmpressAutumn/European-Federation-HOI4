@@ -1,18 +1,12 @@
-
-state={
-	id=783
-	name="STATE_783" # Sidi Ifni
+state = {
+	id = 783
+	name = "STATE_783"
 	manpower = 11043
-	
 	state_category = pastoral
-
-	history={
-		victory_points = {
-			12857 1
-		}
-
-		owner = D01
-		add_core_of = MOR
+	local_supplies = 0.0
+	history = {
+		owner = SPF
+		victory_points = { 12857 1 }
 		buildings = {
 			infrastructure = 1
 			12857 = {
@@ -20,10 +14,7 @@ state={
 			}
 		}
 	}
-
-	provinces={
+	provinces = {
 		12857
 	}
-
-	local_supplies=0.0 
 }

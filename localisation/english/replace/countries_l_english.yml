@@ -1,7 +1,11 @@
 ﻿l_english:
- CZE_democratic: "Republic of Czechoslovakia"
- CZE_democratic_DEF: "the Republic of Czechoslovakia"
  AUS_neutrality: "Archduchy of Austria"
  AUS_neutrality_DEF: "the Archduchy of Austria"
+ CZE_democratic: "Republic of Czechoslovakia"
+ CZE_democratic_DEF: "the Republic of Czechoslovakia"
+ MOR_neutrality: "Kingdom of Morocco"
+ MOR_neutrality_DEF: "the Kingdom of Morocco"
+ TUN_neutrality: "Regency of Tunis"
+ TUN_neutrality_DEF: "the Regency of Tunis"
  YUG_neutrality: "Kingdom of Yugoslavia"
  YUG_neutrality_DEF: "the Kingdom of Yugoslavia"
