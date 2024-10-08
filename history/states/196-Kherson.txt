@@ -1,32 +1,22 @@
-
-state={
-	id=196
-	name="STATE_196"
+state = {
+	id = 196
+	name = "STATE_196"
 	manpower = 728363
-	
 	state_category = rural
-	
-	resources={
-		chromium=15 # was: 22
+	resources = {
+		chromium = 15
 	}
-
-	history={
-		victory_points = {
-			721 1
-		}
-		owner = D01
+	local_supplies = 0.0
+	history = {
+		owner = UKR
+		add_core_of = UKR
+		victory_points = { 721 1 }
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 3
 			air_base = 3
 		}
-		add_core_of = SOV
-		add_core_of = UKR
-		add_core_of = CRI
 	}
-
-	provinces={
-		568 721 737 767 3573 6771 9712 11715 
+	provinces = {
+		568 721 737 767 3573 6771 9712 11715
 	}
-
-	local_supplies=0.0 
 }

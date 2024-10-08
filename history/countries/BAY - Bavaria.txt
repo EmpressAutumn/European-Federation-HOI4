@@ -162,17 +162,3 @@ set_popularities = {
 
 add_ideas = {
 }
-
-
-
-create_country_leader = {
-	name = "Wilhelm II"
-	desc = "Emperor of Germany!"
-	picture = "wilhelmii.dds"
-	ideology = despotism
-	traits = {
-		#
-	}
-}
-
-

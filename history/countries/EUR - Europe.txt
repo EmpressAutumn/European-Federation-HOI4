@@ -1,5 +1,5 @@
 ﻿oob = "EUR_1936"
-capital = 974
+capital = 28
 set_research_slots = 4
 set_stability = 0.5
 set_war_support = 0.5
@@ -21,7 +21,7 @@ set_autonomy = {
 	autonomous_state = autonomy_colony
 }
 set_autonomy = {
-	target = FIC
+	target = IDC
 	autonomous_state = autonomy_colony
 }
 set_autonomy = {
@@ -43,6 +43,7 @@ set_autonomy = {
 create_faction = "Continental Treaty"
 add_to_faction = EAF
 add_to_faction = FIC
+add_to_faction = IDC
 add_to_faction = MOR
 add_to_faction = SPF
 add_to_faction = TUN

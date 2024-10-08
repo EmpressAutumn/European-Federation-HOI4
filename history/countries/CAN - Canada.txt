@@ -1,7 +1,5 @@
 ﻿capital = 276
 
-canadian_dominion_state
-
 set_autonomy = {
 	target = QUE
 	autonomous_state =  canadian_dominion_state
