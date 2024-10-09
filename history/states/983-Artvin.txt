@@ -1,0 +1,18 @@
+state = {
+	id = 983
+	name = "STATE_983"
+	manpower = 350000
+	state_category = rural
+	local_supplies = 0.000
+	history = {
+		owner = ARM
+		add_core_of = ARM
+		victory_points = { 10472 5 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		789 3714 6976 6991 7454 10403 10472 11753 11853
+	}
+}
