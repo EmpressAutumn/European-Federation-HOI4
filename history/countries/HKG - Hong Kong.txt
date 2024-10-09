@@ -85,16 +85,20 @@ if = {
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	democratic = 10
-	communism = 30
-	neutrality = 60
+	ultranationalism = 0
+	monarchism = 4
+	conservatism = 40
+	progressivism = 21
+	libertarianism = 26
+	centralism = 9
+	authoritarianism = 0
 }
 create_country_leader = {
 	name = "Andrew Caldecott"

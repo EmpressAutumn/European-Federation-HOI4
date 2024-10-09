@@ -92,15 +92,19 @@ if = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarianism
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 25
-	communism = 35
-	neutrality = 40
+	ultranationalism = 8
+	monarchism = 3
+	conservatism = 17
+	progressivism = 8
+	libertarianism = 37
+	centralism = 12
+	authoritarianism = 15
 }
 
 

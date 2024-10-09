@@ -5,16 +5,19 @@ set_stability = 0.5
 set_war_support = 0.5
 set_convoys = 0
 set_politics = {
-	ruling_party = democratic
+	ruling_party = progressivism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 65
-	fascism = 15
-	communism = 10
-	neutrality = 10
+	ultranationalism = 27
+	monarchism = 1
+	conservatism = 18
+	progressivism = 39
+	libertarianism = 12
+	centralism = 3
+	authoritarianism = 0
 }
 set_autonomy = {
 	target = EAF
