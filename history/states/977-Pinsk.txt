@@ -1,0 +1,17 @@
+state = {
+	id = 977
+	name = "STATE_977"
+	manpower = 425000
+	state_category = rural
+	local_supplies = 0.000
+	history = {
+		owner = WUA
+		add_core_of = WUA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		535 3496 6579 9520 11503
+	}
+}

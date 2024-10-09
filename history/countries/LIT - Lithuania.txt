@@ -1,0 +1,18 @@
+﻿capital = 189
+oob = "LIT_1936"
+set_research_slots = 3
+set_politics = {
+	ruling_party = authoritarianism
+	last_election = "1926.5.8"
+	election_frequency = 120
+	elections_allowed = no
+}
+set_popularities = {
+	ultranationalism = 18
+	monarchism = 7
+	conservatism = 30
+	progressivism = 10
+	libertarianism = 5
+	centralism = 0
+	authoritarianism = 30
+}
