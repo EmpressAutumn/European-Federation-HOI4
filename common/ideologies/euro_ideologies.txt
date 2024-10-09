@@ -218,7 +218,7 @@ ideologies = {
 			"FACTION_NAME_LIBERTARIAN_1"
 			"FACTION_NAME_LIBERTARIAN_2"
 		}
-		color = { 183 69 84 }
+		color = { 112 49 49 }
 		rules = {
 			can_create_collaboration_government = no
 			can_declare_war_on_same_ideology = no
