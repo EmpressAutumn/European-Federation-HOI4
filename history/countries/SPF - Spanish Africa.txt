@@ -4,6 +4,20 @@ set_research_slots = 2
 set_stability = 0.5
 set_war_support = 0.5
 set_convoys = 0
+EUR = {
+	if = {
+		limit = {
+			has_dlc = "Together for Victory"
+		}
+		set_autonomy = {
+			target = SPF
+			autonomy_state = autonomy_colony
+		}
+	}
+	else = {
+		puppet = SPF
+	}
+}
 set_politics = {
 	ruling_party = authoritarianism
 	last_election = "1936.1.1"
