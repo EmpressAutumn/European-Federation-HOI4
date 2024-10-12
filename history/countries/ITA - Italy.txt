@@ -1,0 +1,24 @@
+﻿oob = "ITA_1936"
+capital = 2
+set_research_slots = 4
+set_stability = 0.5
+set_war_support = 0.5
+set_convoys = 0
+set_politics = {
+	ruling_party = conservatism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	ultranationalism = 27
+	monarchism = 1
+	conservatism = 18
+	progressivism = 39
+	libertarianism = 12
+	centralism = 3
+	authoritarianism = 0
+}
+give_guarantee = AUS
+give_guarantee = BAY
+give_guarantee = HUN

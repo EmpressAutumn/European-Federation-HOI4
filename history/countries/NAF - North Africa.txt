@@ -1,12 +1,12 @@
-﻿oob = "PAL_1936"
-capital = 454
+﻿oob = "NAF_1936"
+capital = 448
 set_research_slots = 2
 set_stability = 0.5
 set_war_support = 0.5
 set_convoys = 0
-BRT = {
+ITA = {
 	set_autonomy = {
-		target = PAL
+		target = NAF
 		autonomy_state = autonomy_colonial_colony
 	}
 }
@@ -17,11 +17,11 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	ultranationalism = 5
-	monarchism = 17
-	conservatism = 23
-	progressivism = 22
-	libertarianism = 24
+	ultranationalism = 2
+	monarchism = 15
+	conservatism = 33
+	progressivism = 13
+	libertarianism = 27
 	centralism = 2
-	authoritarianism = 7
+	authoritarianism = 8
 }

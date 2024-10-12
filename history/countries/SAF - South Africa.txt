@@ -1,0 +1,22 @@
+﻿oob = "SAF_1936"
+capital = 275
+set_stability = 0.6
+set_war_support = 0.1
+set_convoys = 25
+BRT = {
+	set_autonomy = {
+		target = SAF
+		autonomy_state = autonomy_colonial_dominion
+	}
+}
+set_politics = {
+	ruling_party = conservatism
+	last_election = "1933.5.17"
+	election_frequency = 60
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 75
+	fascism = 20
+	communism = 5
+}

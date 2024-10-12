@@ -1,5 +1,5 @@
 ﻿oob = "KUR_1936"
-capital = 800
+capital = 350
 set_research_slots = 2
 BRT = {
 	set_autonomy = {

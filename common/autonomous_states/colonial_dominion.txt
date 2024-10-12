@@ -1,7 +1,7 @@
 autonomy_state = {
 	id = autonomy_colonial_dominion
 	is_puppet = yes
-	min_freedom_level = 1.3
+	min_freedom_level = 0.8
 	manpower_influence = 0
 	rule = {
 		desc = "RULE_DESC_IS_A_SUBJECT"

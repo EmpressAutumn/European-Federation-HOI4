@@ -1,29 +1,21 @@
-
-state={
-	id=163
-	name="STATE_163"
-
-	history={
-		owner = D01
-		victory_points = {
-			3943 5
-		}
+state = {
+	id = 163
+	name = "STATE_163"
+	manpower = 518000
+	state_category = large_town
+	local_supplies = 0.000
+	history = {
+		owner = ITA
+		add_core_of = YUG
+		victory_points = { 3943 5 }
 		buildings = {
 			infrastructure = 3
 			3943 = {
 				naval_base = 1
-
 			}
 		}
-		add_core_of = CRO
-		set_compliance = 70
 	}
-
-	provinces={
-		591 984 3601 3943 6611 11901 13252 
+	provinces = {
+		591 984 3601 3943 6611 11901 13252
 	}
-	manpower=518000
-	buildings_max_level_factor=1.000
-	state_category=large_town
-	local_supplies=0.000
 }

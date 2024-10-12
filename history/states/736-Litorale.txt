@@ -1,18 +1,13 @@
 state = {
 	id = 736
-	name = "STATE_736" #Name was Istria before the Pola (Istria) split and merge with Fiume
-	
+	name = "STATE_736"
+	manpower = 1038159
 	state_category = city
-
+	local_supplies = 0.0
 	history = {
-		victory_points = {
-			6626 3
-		}
-		owner = D01
+		owner = ITA
 		add_core_of = ITA
-		add_core_of = YUG
-		add_core_of = SLV
-		add_core_of = LBV
+		victory_points = { 6626 3 }
 		buildings = {
 			infrastructure = 1
 			dockyard = 1
@@ -20,16 +15,9 @@ state = {
 			6626 = {
 				naval_base = 5
 			}
-
 		}
-
 	}
-
 	provinces = {
-		599 6626 11595 
+		599 6626 11595
 	}
-	manpower = 1038159 # was 1063159 before Istria was merged with Fiume (~25k pop added to new Istria state (Fiume + Pola)
-	buildings_max_level_factor = 1.000
-
-	local_supplies = 0.0 
 }
