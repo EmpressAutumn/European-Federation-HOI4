@@ -1,30 +1,20 @@
-
-state={
-	id=455
-	name="STATE_455"
+state = {
+	id = 455
+	name = "STATE_455"
 	manpower = 932000
-	
 	state_category = rural
-
-	history={
-		owner = D01
+	local_supplies = 0.0
+	history = {
+		owner = LEV
+		add_core_of = LEV
+		victory_points = { 7151 1 }
+		victory_points = { 11976 1 }
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		victory_points = {
-			7151 1 
-		}
-		victory_points = {
-			11976 1 
-		}
-
-		add_core_of = JOR
 	}
-
-	provinces={
-		1544 4017 4115 4440 4562 4574 4591 4603 7001 7151 7170 10089 11976 
+	provinces = {
+		1544 4017 4115 4440 4562 4574 4591 4603 7001 7151 7170 10089 11976
 	}
-
-	local_supplies=0.0 
 }

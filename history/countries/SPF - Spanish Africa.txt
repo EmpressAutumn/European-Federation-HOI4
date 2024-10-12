@@ -11,7 +11,7 @@ EUR = {
 		}
 		set_autonomy = {
 			target = SPF
-			autonomy_state = autonomy_colony
+			autonomy_state = autonomy_colonial_colony
 		}
 	}
 	else = {

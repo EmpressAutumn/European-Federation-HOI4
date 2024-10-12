@@ -1,21 +1,29 @@
-state = {
-	id = 676
-	name = "STATE_676"
-	manpower = 632741
-	state_category = town
-	resources = {
-		oil = 8.000
+
+state={
+	id=676
+	name="STATE_676"
+	resources={
+		oil=8.000
 	}
-	local_supplies = 0.000
-	history = {
+
+	history={
 		owner = IRQ
 		add_core_of = IRQ
-		victory_points = { 10106 5 }
+		victory_points = {
+			10106 5 
+		}
 		buildings = {
 			infrastructure = 2
+
 		}
+
 	}
-	provinces = {
-		1600 1938 8123 10106 10793 10804 12372
+
+	provinces={
+		1600 1938 8123 10106 10793 12372 
 	}
+	manpower=632741
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
 }

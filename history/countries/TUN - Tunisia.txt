@@ -10,7 +10,7 @@ EUR = {
 		}
 		set_autonomy = {
 			target = TUN
-			autonomy_state = autonomy_dominion
+			autonomy_state = autonomy_colonial_protectorate
 		}
 	}
 	else = {

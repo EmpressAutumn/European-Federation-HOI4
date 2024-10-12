@@ -1,22 +1,9 @@
-﻿capital = 461
-set_technology = {
-	infantry_weapons = 1
-}
-set_convoys = 20
-EUR = {
-	if = {
-		limit = {
-			has_dlc = "Together for Victory"
-		}
-		set_autonomy = {
-			target = MOR
-			autonomy_state = autonomy_colonial_protectorate
-		}
-	}
-	else = {
-		puppet = TUN
-	}
-}
+﻿oob = "IRQ_1936"
+capital = 291
+set_research_slots = 2
+set_stability = 0.5
+set_war_support = 0.5
+set_convoys = 0
 set_politics = {
 	ruling_party = monarchism
 	last_election = "1936.1.1"
@@ -33,9 +20,9 @@ set_popularities = {
 	authoritarianism = 0
 }
 create_country_leader = {
-	name = "Mohammed V"
+	name = "Ghazi I"
 	desc = ""
-	picture = GFX_portrait_Mohammed_V
+	picture = GFX_portrait_iraq_ghazi
 	ideology = absolutist
 	traits = {}
 }
