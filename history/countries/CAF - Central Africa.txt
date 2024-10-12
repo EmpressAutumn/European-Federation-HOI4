@@ -1,4 +1,4 @@
-﻿oob = "EAF_1936"
+﻿oob = "CAF_1936"
 capital = 772
 set_research_slots = 2
 set_stability = 0.5
@@ -10,7 +10,7 @@ EUR = {
 			has_dlc = "Together for Victory"
 		}
 		set_autonomy = {
-			target = EAF
+			target = CAF
 			autonomy_state = autonomy_colonial_colony
 		}
 	}

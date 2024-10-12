@@ -1,0 +1,42 @@
+﻿oob = "KUR_1936"
+capital = 800
+set_research_slots = 2
+BRT = {
+	set_autonomy = {
+		target = KUR
+		autonomy_state = autonomy_colonial_protectorate
+	}
+}
+set_politics = {
+	ruling_party = conservatism
+	last_election = "1935.2.8"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	ultranationalism = 0
+	monarchism = 29
+	conservatism = 48
+	progressivism = 12
+	libertarianism = 11
+	centralism = 0
+	authoritarianism = 0
+}
+create_country_leader = {
+	name = "Seyid Riza"
+	desc = "POLITICS_SEYID_RIZA_DESC"
+	picture = "GFX_portrait_kur_seyid_riza"
+	expire = "1965.1.1"
+	ideology = isolationist
+	traits = {
+		freedom_fighter
+	}
+}
+create_country_leader = {
+	name = "Sheikh Mahmud Barzanji"
+	desc = "POLITICS_SHEIKH_BARZANJI_DESC"
+	picture = GFX_portrait_Sheikh_Mahmud_Barzanji
+	expire = "1965.1.1"
+	ideology = oligarchal
+	traits = {}
+}

@@ -1,0 +1,25 @@
+﻿oob = "BRT_1936"
+capital = 126
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.5
+set_convoys = 0
+set_politics = {
+	ruling_party = conservatism
+	last_election = "1935.11.14"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 97
+	fascism = 2
+	communism = 1
+}
+create_faction = "Allied Powers"
+add_to_faction = BRT
+add_to_faction = EAF
+add_to_faction = EGY
+add_to_faction = IRQ
+add_to_faction = KUR
+add_to_faction = LEV
+add_to_faction = PAL

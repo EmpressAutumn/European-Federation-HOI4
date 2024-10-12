@@ -20,7 +20,7 @@ set_popularities = {
 	authoritarianism = 0
 }
 create_faction = "Continental Treaty"
-add_to_faction = EAF
+add_to_faction = CAF
 add_to_faction = FIC
 add_to_faction = IDC
 add_to_faction = MOR

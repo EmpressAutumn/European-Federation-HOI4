@@ -1,12 +1,12 @@
-﻿oob = "IRQ_1936"
-capital = 291
-set_research_slots = 2
+﻿oob = "EGY_1936"
+capital = 554
+set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
 set_convoys = 0
 BRT = {
 	set_autonomy = {
-		target = IRQ
+		target = EGY
 		autonomy_state = autonomy_colonial_protectorate
 	}
 }
@@ -26,9 +26,9 @@ set_popularities = {
 	authoritarianism = 0
 }
 create_country_leader = {
-	name = "Ghazi I"
+	name = "Farouk I"
 	desc = ""
-	picture = GFX_portrait_iraq_ghazi
-	ideology = absolutist
+	picture = "GFX_portrait_egy_faud_i"
+	ideology = oligarchal
 	traits = {}
 }

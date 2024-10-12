@@ -6,7 +6,7 @@ state = {
 	local_supplies = 1.0
 	impassable = yes
 	history = {
-		owner = EAF
+		owner = CAF
 		buildings = {
 			infrastructure = 0
 		}

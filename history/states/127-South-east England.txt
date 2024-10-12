@@ -1,16 +1,16 @@
-
-state={
-	id=127
-	name="STATE_127" # Sussex
+state = {
+	id = 127
+	name = "STATE_127"
 	manpower = 3193383
 	state_category = large_city
-
-	history={
-		owner = D01
+	local_supplies = 16.0
+	history = {
+		owner = BRT
+		add_core_of = BRT
 		victory_points = { 3501 20 }
 		victory_points = { 9458 15 }
 		buildings = {
-			infrastructure = 4 #was: 8
+			infrastructure = 4
 			arms_factory = 1
 			industrial_complex = 1
 			dockyard = 2
@@ -26,18 +26,8 @@ state={
 				naval_base = 10
 			}
 		}
-		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
-				dockyard = 3
-				industrial_complex = 2
-			}
-		}
 	}
-
-	provinces={
-		507 3501 6489 9458 11446 13070 
+	provinces = {
+		507 3501 6489 9458 11446 13070
 	}
-
-	local_supplies=16.0 
 }

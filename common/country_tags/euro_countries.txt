@@ -1,4 +1,6 @@
-EAF = "countries/Equatorial Africa.txt"
+BRT = "countries/United Kingdom.txt"
+CAF = "countries/Central Africa.txt"
+EAF = "countries/East Africa.txt"
 EUR = "countries/Europe.txt"
 CON = "countries/Constantinople.txt"
 HKG = "countries/Hong Kong.txt"
