@@ -16,6 +16,7 @@ set_popularities = {
 	communism = 1
 }
 create_faction = "Allied Powers"
+add_to_faction = BOT
 add_to_faction = BRT
 add_to_faction = EAF
 add_to_faction = EGY
@@ -23,4 +24,5 @@ add_to_faction = IRQ
 add_to_faction = KUR
 add_to_faction = LEV
 add_to_faction = PAL
+add_to_faction = RHO
 add_to_faction = SAF
