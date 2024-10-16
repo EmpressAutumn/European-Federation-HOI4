@@ -1,0 +1,21 @@
+﻿oob = "HEJ_1936"
+capital = 856
+set_research_slots = 2
+set_stability = 0.5
+set_war_support = 0.5
+set_convoys = 0
+set_politics = {
+	ruling_party = monarchism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	ultranationalism = 0
+	monarchism = 37
+	conservatism = 30
+	progressivism = 15
+	libertarianism = 13
+	centralism = 5
+	authoritarianism = 0
+}
