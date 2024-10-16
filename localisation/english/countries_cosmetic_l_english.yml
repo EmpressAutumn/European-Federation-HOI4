@@ -1,0 +1,11 @@
+﻿l_english:
+ CAF_autonomy_colonial_colony: "$OVERLORDADJ$ Equatorial Africa"
+ CAF_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ Equatorial Africa"
+ EAF_autonomy_colonial_colony: "$OVERLORDADJ$ East Africa"
+ EAF_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ East Africa"
+ IDC_autonomy_colonial_colony: "$OVERLORDADJ$ Indochina"
+ IDC_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ Indochina"
+ NAF_autonomy_colonial_colony: "$OVERLORDADJ$ North Africa"
+ NAF_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ North Africa"
+ WAF_autonomy_colonial_colony: "$OVERLORDADJ$ West Africa"
+ WAF_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ West Africa"
