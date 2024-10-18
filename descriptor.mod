@@ -5,4 +5,4 @@ tags = {
 	"National Focuses"
 }
 name = "The European Federation"
-supported_version = "1.14.9"
+supported_version = "1.14.10"
