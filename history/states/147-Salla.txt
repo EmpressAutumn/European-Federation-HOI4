@@ -1,27 +1,18 @@
-state=
-{
-	id=147
-	name="STATE_147" #SALLA
-	manpower = 4630
-	
+state = {
+	id = 147
+	name = "STATE_147"
+	manpower = 6630
 	state_category = enclave
-	
-	history = {	
-		owner = D01
+	local_supplies = 0.000
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 197 1 }
 		buildings = {
-			infrastructure = 1 #TODO_Manu: Was 2
-		}
-		add_core_of = FIN
-		add_core_of = KAR
-		
-		victory_points = { #Salla
-			197 1
+			infrastructure = 1
 		}
 	}
-
-	provinces={
-		197 9158 11085 	
+	provinces = {
+		197 3156 6045 6128 9158 11030 11085
 	}
-
-	local_supplies=0.0 
 }

@@ -1,9 +1,21 @@
 ﻿l_english:
+ ARM: "Armenia"
+ ARM_DEF: "Armenia"
+ ARM_ADJ: "Armenian"
+ ARM_progressivism: "Republic of Armenia"
+ ARM_progressivism_DEF: "the Republic of Armenia"
+
  AUS: "Austria"
  AUS_DEF: "Austria"
  AUS_ADJ: "Austrian"
  AUS_monarchism: "Archduchy of Austria"
  AUS_monarchism_DEF: "the Archduchy of Austria"
+
+ BAY: "Bavaria"
+ BAY_DEF: "Bavaria"
+ BAY_ADJ: "Bavarian"
+ BAY_monarchism: "Kingdom of Bavaria"
+ BAY_monarchism_DEF: "the Kingdom of Bavaria"
 
  BOT_authoritarianism: "Bechuanaland Protectorate"
  BOT_authoritarianism_DEF: "the Bechuanaland Protectorate"
@@ -18,8 +30,8 @@
  BUL: "Bulgaria"
  BUL_DEF: "Bulgaria"
  BUL_ADJ: "Bulgarian"
- BUL_monarchism: "Kingdom of Bulgaria"
- BUL_monarchism_DEF: "the Kingdom of Bulgaria"
+ BUL_monarchism: "Tsardom of Bulgaria"
+ BUL_monarchism_DEF: "the Tsardom of Bulgaria"
 
  CAF: "Equatorial Africa"
  CAF_DEF: "Equatorial Africa"
@@ -53,6 +65,10 @@
  EUR_progressivism: "European Federation"
  EUR_progressivism_DEF: "the European Federation"
 
+ FIN: "Finland"
+ FIN_DEF: "Finland"
+ FIN_ADJ: "Finnish"
+
  GRE: "Greece"
  GRE_DEF: "Greece"
  GRE_ADJ: "Greek"
@@ -64,6 +80,12 @@
  HEJ_ADJ: "Hejazi"
  HEJ_monarchism: "Kingdom of Hejaz"
  HEJ_monarchism_DEF: "the Kingdom of Hejaz"
+
+ HUN: "Hungary"
+ HUN_DEF: "Hungary"
+ HUN_ADJ: "Hungarian"
+ HUN_progressivism: "Republic of Hungary"
+ HUN_progressivism_DEF: "the Republic of Hungary"
 
  IDC: "Indochina"
  IDC_DEF: "Indochina"
@@ -149,6 +171,17 @@
  TUN: "Tunisian"
  TUN_monarchism: "Regency of Tunis"
  TUN_monarchism_DEF: "the Regency of Tunis"
+
+ TUR: "Turkey"
+ TUR_DEF: "Turkey"
+ TUR_ADJ: "Turkish"
+ TUR_monarchism: "Ottoman Empire"
+ TUR_monarchism_DEF: "the Ottoman Empire"
+ TUR_monarchism_ADJ: "Ottoman"
+
+ UKR: "Ukraine"
+ UKR_DEF: "Ukraine"
+ UKR_ADJ: "Ukrainian"
 
  WAF: "West Africa"
  WAF_DEF: "West Africa"

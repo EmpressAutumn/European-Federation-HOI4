@@ -21,4 +21,3 @@ set_popularities = {
 }
 give_guarantee = AUS
 give_guarantee = BAY
-give_guarantee = HUN

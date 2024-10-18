@@ -19,6 +19,13 @@ set_popularities = {
 	centralism = 3
 	authoritarianism = 0
 }
+create_country_leader = {
+	name = "Richard von Coudenhove-Kalergi"
+	desc = ""
+	picture = "richard_eijiro.dds"
+	ideology = integrationist
+	traits = {}
+}
 create_faction = "Continental Treaty"
 add_to_faction = CAF
 add_to_faction = FIC
