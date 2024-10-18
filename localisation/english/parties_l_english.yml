@@ -45,9 +45,6 @@
  falangism_desc:0 "An authoritarian ideology with traits of fascism and conservatism, Falangism values national and Catholic identity."
  rexism:0 "Rexism"
  rexism_desc:0 "Strongly opposed to both liberal and communist ideals, Rexism is a staunchly conservative nationalist movement who advocate a corporatist economic policy. Employing increasingly populist and authoritarian rhetoric, their ideals are shifting closer to other fascist movements."
- neutrality:0 "Non-Aligned"
- neutrality_noun:0 "Non-Aligned"
- neutrality_desc:0 "Authoritarian Regime"
  despotism:0 "Despotic"
  despotism_desc:0 "Despotism is a form of government in which a single person rules with absolute power."
  oligarchism:0 "Oligarchic"
@@ -59,5 +56,17 @@
  anarchism:0 "Anarchism"
  anarchism_desc:0 "Anarchism is the rejection of authority itself, promoting the division of society into self-managing and self-governing collectives instead of a singular, centralized state."
 
+ EGY_monarchism_party: "Alawiyyas"
+ EGY_monarchism_party_long: "Muhammad Ali Dynasty"
+
  EUR_progressivism_party: "PEVP-PPP"
  EUR_progressivism_party_long: "Paneuropäische Volkspartei - Parti Populaire Paneuropéen"
+
+ HEJ_monarchism_party: "Hashemites"
+ HEJ_monarchism_party_long: "House of Hashim"
+
+ IRQ_monarchism_party: "Hashemites"
+ IRQ_monarchism_party_long: "House of Hashim"
+
+ LEV_monarchism_party: "Hashemites"
+ LEV_monarchism_party_long: "House of Hashim"

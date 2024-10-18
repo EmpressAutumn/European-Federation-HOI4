@@ -1,6 +1,8 @@
 ﻿l_english:
  CAF_autonomy_colonial_colony: "$OVERLORDADJ$ Equatorial Africa"
  CAF_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ Equatorial Africa"
+ CGO_autonomy_colonial_colony: "$OVERLORDADJ$ Congo"
+ CGO_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ Congo"
  EAF_autonomy_colonial_colony: "$OVERLORDADJ$ East Africa"
  EAF_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ East Africa"
  IDC_autonomy_colonial_colony: "$OVERLORDADJ$ Indochina"

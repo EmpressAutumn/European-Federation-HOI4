@@ -17,6 +17,10 @@
  BAY_monarchism: "Kingdom of Bavaria"
  BAY_monarchism_DEF: "the Kingdom of Bavaria"
 
+ BEL: "Belgium"
+ BEL_DEF: "Belgium"
+ BEL_ADJ: "Belgian"
+
  BOT_authoritarianism: "Bechuanaland Protectorate"
  BOT_authoritarianism_DEF: "the Bechuanaland Protectorate"
  BOT_authoritarianism_ADJ: "Bechuanan"
@@ -36,6 +40,10 @@
  CAF: "Equatorial Africa"
  CAF_DEF: "Equatorial Africa"
  CAF_ADJ: "Equatorial African"
+
+ CGO: "Congo"
+ CGO_DEF: "Congo"
+ CGO_ADJ: "Congolese"
 
  CON: "Constantinople"
  CON_DEF: "Constantinople"
@@ -143,6 +151,12 @@
  RHO_authoritarianism: "Federation of Rhodesia"
  RHO_authoritarianism_DEF: "the Federation of Rhodesia"
 
+ RUD: "Ruanda-Urundi"
+ RUD_DEF: "Ruanda-Urundi"
+ RUD_ADJ: "Ruando-Urundian"
+ RUD_authoritarianism: "Territory of Ruanda-Urundi"
+ RUD_authoritarianism_DEF: "the Territory of Ruanda-Urundi"
+
  SAF: "South Africa"
  SAF_DEF: "South Africa"
  SAF_ADJ: "South African"
@@ -168,7 +182,7 @@
 
  TUN: "Tunisia"
  TUN_DEF: "Tunisia"
- TUN: "Tunisian"
+ TUN_ADJ: "Tunisian"
  TUN_monarchism: "Regency of Tunis"
  TUN_monarchism_DEF: "the Regency of Tunis"
 
