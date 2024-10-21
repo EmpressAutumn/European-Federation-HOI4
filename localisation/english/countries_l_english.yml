@@ -151,6 +151,10 @@
  RHO_authoritarianism: "Federation of Rhodesia"
  RHO_authoritarianism_DEF: "the Federation of Rhodesia"
 
+ ROM: "Romania"
+ ROM_DEF: "Romania"
+ ROM_ADJ: "Romanian"
+
  RUD: "Ruanda-Urundi"
  RUD_DEF: "Ruanda-Urundi"
  RUD_ADJ: "Ruando-Urundian"

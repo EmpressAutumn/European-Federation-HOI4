@@ -3,24 +3,19 @@ state = {
 	manpower = 51000
 	name = "STATE_932"
 	state_category = small_island
+	local_supplies = 0
 	history = {
-		owner = D01
-		add_core_of = ENG
-		
-		victory_points = {
-			3311 1 #Douglas
-		}
+		owner = BRT
+		add_core_of = BRT
+		victory_points = { 3311 1 }
 		buildings = {
-			infrastructure = 3 #was: 6
+			infrastructure = 3
 			3311 = {
 				naval_base = 1
 			}
 		}
 	}
 	provinces = {
-		3311 
+		3311
 	}
-	
-
-	local_supplies=0.000
 }

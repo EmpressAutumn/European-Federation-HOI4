@@ -19,3 +19,12 @@ set_popularities = {
 	centralism = 0
 	authoritarianism = 0
 }
+BRT = {
+	give_guarantee = CON
+}
+EUR = {
+	give_guarantee = CON
+}
+ITA = {
+	give_guarantee = CON
+}

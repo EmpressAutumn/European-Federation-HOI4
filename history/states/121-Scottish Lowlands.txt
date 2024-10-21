@@ -1,18 +1,16 @@
-
-state={
-	id=121
-	name="STATE_121" # Lothian
+state = {
+	id = 121
+	name = "STATE_121"
 	manpower = 1431624
-	
 	state_category = city
-
-	history={
-		add_core_of = SCO
-		owner = D01
+	local_supplies = 0.0
+	history = {
+		owner = BRT
+		add_core_of = BRT
 		victory_points = { 9392 10 }
 		victory_points = { 6300 1 }
 		buildings = {
-			infrastructure = 4 #was: 7
+			infrastructure = 4
 			industrial_complex = 1
 			dockyard = 1
 			air_base = 3
@@ -20,12 +18,8 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = ENG
 	}
-
-	provinces={
-		159 6300 9314 9383 9392 11378 
+	provinces = {
+		159 6300 9314 9383 9392 11378
 	}
-
-	local_supplies=0.0 
 }

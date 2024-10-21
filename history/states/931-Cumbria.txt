@@ -1,26 +1,22 @@
 state = {
-	id=931
-	name="STATE_931"
+	id = 931
+	name = "STATE_931"
 	manpower = 745101
 	state_category = town
 	resources = {
 		steel = 20 
 		aluminium = 5
 	}
-
+	local_supplies = 0
 	history = {
-		owner = D01
-		add_core_of = ENG
-		victory_points = {
-			11332 3 #Carlisle
-		}
+		owner = BRT
+		add_core_of = BRT
+		victory_points = { 11332 3 }
 		buildings = {
-			infrastructure = 3 #was: 6
+			infrastructure = 3
 		}
 	}
-
 	provinces = {
-		219 6399 9285 11332 
+		219 6399 9285 11332
 	}
-	local_supplies = 0.000
 }
