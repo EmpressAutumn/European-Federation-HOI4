@@ -1,0 +1,39 @@
+﻿capital = 439
+oob = "RAJ_1936"
+set_stability = 0.6
+set_war_support = 0.1
+set_convoys = 20
+set_autonomy = {
+	target = TIB
+	autonomous_state = autonomy_supervised_state
+	freedom_level = 0.35
+}
+set_autonomy = {
+	target = NEP
+	autonomous_state = autonomy_supervised_state
+	freedom_level = 0.35
+}
+set_autonomy = {
+	target = BHU
+	autonomous_state = autonomy_supervised_state
+	freedom_level = 0.35
+}
+BRT = {
+	set_autonomy = {
+		target = IND
+		autonomous_state = autonomy_colonial_dominion
+	}
+}
+
+set_politics = {
+	ruling_party = conservatism
+	last_election = "1935.11.14"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 17
+	fascism = 2
+	communism = 1
+	neutrality = 80
+}

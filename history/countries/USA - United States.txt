@@ -351,11 +351,6 @@ set_autonomy = {
 	autonomous_state =  autonomy_puppet
 }
 
-set_autonomy = {
-	target = AOS
-	autonomous_state =  autonomy_collaboration_government
-}
-
 
 1939.1.1 = {
 	set_politics = {

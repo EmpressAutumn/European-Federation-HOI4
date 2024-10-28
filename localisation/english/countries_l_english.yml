@@ -99,6 +99,12 @@
  IDC_DEF: "Indochina"
  IDC_ADJ: "Indochinese"
 
+ IND: "India"
+ IND_DEF: "India"
+ IND_ADJ: "Indian"
+ IND_conservatism: "Dominion of India"
+ IND_conservatism_DEF: "the Dominion of India"
+
  IRQ: "Iraq"
  IRQ_DEF: "Iraq"
  IRQ_ADJ: "Iraqi"
@@ -201,6 +207,10 @@
  UKR_DEF: "Ukraine"
  UKR_ADJ: "Ukrainian"
 
+ USA: "America"
+ USA_DEF: "America"
+ USA_ADJ: "American"
+
  WAF: "West Africa"
  WAF_DEF: "West Africa"
  WAF_ADJ: "West African"
@@ -224,9 +234,6 @@
  YUG_monarchism_DEF: "the Kingdom of Yugoslavia"
 
 
- AOS_democratic: "American Occupation of Siberia"
- AOS_democratic_DEF: "the American Occupation of Siberia"
- AOS_democratic_ADJ: "Siberian"
  HKG_democratic: "Hong Kong"
  HKG_democratic_DEF: "the Hong Kong Republic"
  HKG_democratic_ADJ: "Cantonese"

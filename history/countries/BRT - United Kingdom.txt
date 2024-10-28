@@ -20,6 +20,7 @@ add_to_faction = BOT
 add_to_faction = BRT
 add_to_faction = EAF
 add_to_faction = EGY
+add_to_faction = IND
 add_to_faction = IRQ
 add_to_faction = KUR
 add_to_faction = LEV

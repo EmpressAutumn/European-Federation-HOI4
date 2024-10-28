@@ -9,5 +9,7 @@
  IDC_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ Indochina"
  NAF_autonomy_colonial_colony: "$OVERLORDADJ$ North Africa"
  NAF_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ North Africa"
+ SIB_autonomy_colonial_protectorate: "$OVERLORDADJ$ Protectorate of Siberia"
+ SIB_autonomy_colonial_protectorate_DEF: "$OVERLORDADJ$ Protectorate of Siberia"
  WAF_autonomy_colonial_colony: "$OVERLORDADJ$ West Africa"
  WAF_autonomy_colonial_colony_DEF: "$OVERLORDADJ$ West Africa"

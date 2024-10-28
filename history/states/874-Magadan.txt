@@ -1,26 +1,18 @@
-
 state = {
 	id = 874
-	name = "STATE_874" # Magadan
+	name = "STATE_874"
 	manpower = 63481
 	state_category = pastoral
-	
+	local_supplies = 0.0
 	history = {
-		victory_points = { 
-			12683 1 
-		}
-
-		owner = AOS
+		owner = SIB
+		add_core_of = SIB
+		victory_points = { 12683 1 }
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = SOV
-		add_core_of = AOS
 	}
-
 	provinces = {
 		1865 10540 12683
 	}
-
-	local_supplies = 0.0 
 }
