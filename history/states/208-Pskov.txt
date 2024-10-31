@@ -1,26 +1,19 @@
-
-state={
-	id=208
-	name="STATE_208" # Luga
+state = {
+	id = 208
+	name = "STATE_208"
 	manpower = 341819
-	
 	state_category = rural
-
-	history={
-		owner = D01
+	local_supplies = 0.0
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 9098 1 }
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 3
 			air_base = 3
 		}
-		add_core_of = SOV
-		victory_points = {
-			9098 1
-		}
 	}
-
-	provinces={
-		104 126 181 3120 6139 6197 9097 9098 11032 11080 11139 11186 
+	provinces = {
+		104 126 181 3120 6139 6197 9097 9098 11032 11080 11139 11186
 	}
-
-	local_supplies=0.0 
 }

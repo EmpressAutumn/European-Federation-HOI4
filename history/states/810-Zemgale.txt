@@ -1,16 +1,13 @@
-
-state={
-	id=810
-	name="STATE_810"
-
-	history={
-		owner = D01
-		victory_points = {
-			6222 3 #Jelgava
-		}
-		victory_points = {
-			3255 1 #Jekabpils
-		}
+state = {
+	id = 810
+	name = "STATE_810"
+	manpower = 600250
+	state_category = town
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		victory_points = { 6222 3 }
+		victory_points = { 3255 1 }
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -18,18 +15,10 @@ state={
 			air_base = 3
 			310 = {
 				bunker = 2
-
 			}
-
 		}
-		add_core_of = LAT
-
 	}
-
-	provinces={
-		222 310 319 341 3298 6459 7482 9275 11222 
+	provinces = {
+		222 310 319 341 3298 6459 7482 9275 11222
 	}
-	manpower=600250
-	buildings_max_level_factor=1.000
-	state_category=town
 }

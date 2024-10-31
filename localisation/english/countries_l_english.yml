@@ -123,6 +123,10 @@
  KUR_conservatism: "Kingdom of Kurdistan"
  KUR_conservatism_DEF: "the Kingdom of Kurdistan"
 
+ KYR: "Kyrgyzstan"
+ KYR_DEF: "Kyrgyzstan"
+ KYR_ADJ: "Kyrgyz"
+
  LEV: "the Levant"
  LEV_DEF: "the Levant"
  LEV_ADJ: "Levantine"
