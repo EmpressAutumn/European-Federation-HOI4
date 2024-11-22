@@ -1,6 +1,6 @@
 state = {
-	id = 981
-	name = "STATE_981" # Barotseland
+	id = 996
+	name = "STATE_996" # Barotseland
 	
 	state_category = rural
 	manpower = 690043
@@ -12,9 +12,7 @@ state = {
 
 	history = {
 
-		owner = ENG
-		add_core_of = ZAM
-		add_core_of = BAR
+		owner = RHO
 
 		victory_points = {
 			697 1 # Mongu

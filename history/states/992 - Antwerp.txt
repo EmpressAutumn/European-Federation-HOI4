@@ -1,6 +1,6 @@
 state = {
-	id = 977
-	name = "STATE_977" # Antwerpen
+	id = 992
+	name = "STATE_992" # Antwerpen
 	manpower = 1800000
 
 	#resources = {

@@ -1,6 +1,6 @@
 state = {
-	id = 971
-	name = "STATE_971" # Northern Dobruja
+	id = 988
+	name = "STATE_988" # Northern Dobruja
 	manpower = 490000
 	resources = {
 	}
